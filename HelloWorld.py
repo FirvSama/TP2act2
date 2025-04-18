@@ -1,7 +1,8 @@
+
 #se define variable nombre 
-nombre="juan"
+nombre=input("ingrese su nombre: ")
 #se define la variable apellido
-apellido="lopez"
+apellido=input("ingrese su apellido: ")
 #se define variable materia 
 materia="prog I"
 #se imprime mensaje por consola
